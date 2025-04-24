@@ -1,0 +1,4 @@
+train: C:\Users\dell\Desktop\Etude IAGI\S4\AI\change counter\train
+val: C:\Users\dell\Desktop\Etude IAGI\S4\AI\change counter\val
+nc: 4
+names: ["1", "10", "2", "5"]
